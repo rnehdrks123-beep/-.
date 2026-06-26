@@ -1,0 +1,6 @@
+{
+  "name": "네이버 플레이스 AI 진단 리포트 생성기",
+  "description": "네이버 플레이스 등록 정보를 입력하여 등급, 점수, 항목별 상태 진단과 AI 권장 개선 사항을 담은 프리미엄 리포트를 생성하고 PNG/PDF로 저장하는 진단기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
